@@ -10,7 +10,7 @@ The system combines Natural Language Processing (NLP), lightweight Machine Learn
 
 ---
 
-## 🚨 Problem Statement
+##  Problem Statement
 
 **Omni_CyberTech_10 — Identifying Fake Job Postings and Recruitment Scams**
 
@@ -22,7 +22,7 @@ HIRESAFE aims to provide an accessible system that analyses job postings, identi
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 HIRESAFE allows users to submit a job posting for analysis.
 
@@ -40,7 +40,7 @@ Instead of providing only a simple **"Fake" or "Genuine"** prediction, HIRESAFE 
 
 ---
 
-## 🔄 Core Workflow
+##  Core Workflow
 
 ```text
 Job Posting
@@ -105,7 +105,7 @@ Explanation & Safety Recommendation
 
 ---
 
-## 🤖 Machine Learning Approach
+##  Machine Learning Approach
 
 HIRESAFE uses a lightweight NLP and Machine Learning pipeline designed for CPU-based systems.
 
@@ -123,7 +123,7 @@ The approach avoids GPU-intensive Deep Learning and is suitable for the availabl
 
 ---
 
-## 🚩 Risk Analysis
+##  Risk Analysis
 
 HIRESAFE analyses multiple categories of suspicious signals.
 
@@ -147,7 +147,7 @@ These signals are combined with the ML output to generate the overall risk asses
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 The Machine Learning component will be evaluated using:
 
@@ -160,7 +160,7 @@ The system will also be tested using realistic job-posting examples to assess de
 
 ---
 
-## ✅ Feasibility
+##  Feasibility
 
 - **Software-only** — No specialized hardware required.
 - **CPU-friendly** — Uses lightweight NLP and ML techniques.
@@ -170,26 +170,26 @@ The system will also be tested using realistic job-posting examples to assess de
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
-- 🌍 **Multilingual Detection** — Support multiple languages.
-- 🔌 **Browser Extension** — Analyse job postings while browsing.
-- 📱 **Mobile Application** — Provide on-the-go scam detection.
-- 🔗 **Platform API** — Integrate with recruitment platforms.
-- 📊 **Advanced Scam Intelligence** — Expand the range of detected patterns.
-- 🔄 **Continuous Updates** — Improve models and rules with new scam patterns.
+-  **Multilingual Detection** — Support multiple languages.
+-  **Browser Extension** — Analyse job postings while browsing.
+-  **Mobile Application** — Provide on-the-go scam detection.
+-  **Platform API** — Integrate with recruitment platforms.
+-  **Advanced Scam Intelligence** — Expand the range of detected patterns.
+-  **Continuous Updates** — Improve models and rules with new scam patterns.
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
-**🚧 In Development**
+** In Development**
 
 HIRESAFE is currently under development as a proposed solution for the Omnikon National Hackathon 2026.
 
 ---
 
-## 🏆 Hackathon Details
+##  Hackathon Details
 
 **Hackathon:** Omnikon National Hackathon 2026
 
@@ -205,12 +205,12 @@ HIRESAFE is currently under development as a proposed solution for the Omnikon N
 
 ---
 
-## 🤝 AI Assistance
+##  AI Assistance
 
 ChatGPT was used for brainstorming, solution structuring, technical planning, and content refinement.
 
 ---
 
-## 📄 License
+##  License
 
 This project is currently being developed for the **Omnikon National Hackathon 2026**.
